@@ -1,8 +1,8 @@
 {
-  "name": "Bmw-md",
+  "name": "1EYE",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "1EYE.js",
   "scripts": {
     "test": "node ibrahim.js",
     "s": "node ibrahim.js",
@@ -18,7 +18,7 @@
     "whatsapp-bot",
     "bmw-md-boy"
   ],
-  "author": "ibraahadam",
+  "author": "1EYE",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
