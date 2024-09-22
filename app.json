@@ -1,7 +1,7 @@
 
 {
-  "name":"BARAKA-MD-V1",
-  "description":"Best whatsapp bot developed by Baraka bega+Ibrahim adams",
+  "name":"1-EYE-BOT",
+  "description":"Best whatsapp bot developed by 1-EYE",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e98ca927f62b4d4e9ba87.jpg",
   "repository":"https://github.com/ibraahadam/BARAKA-MD-V3",
@@ -36,7 +36,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BARAKA-MD-V1",
+      "value":"1-EYE-BOT",
       "required":false
 
     } ,
@@ -75,14 +75,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr baraka"
+    "value": "1EYE"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255762190568,255679513639,254710772666"
+    "value": "+919864620087,+919864620087,+919864620087"
   },
     "WARN_COUNT":
   {
